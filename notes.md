@@ -1,3 +1,5 @@
+New text test
+
 % Getty CodeCamp
 % Session 1: Hello World!
 
